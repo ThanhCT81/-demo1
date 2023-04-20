@@ -1,0 +1,29 @@
+body{
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  height: 100vh;
+}
+input{
+  font-size: 20px;
+}
+div{
+  border-radius: 25px;
+  margin: 0 auto;
+  height: 200px;
+  width: 600px;
+  background: red;
+  text-align: center;
+}
+button{
+  font-size: 20px;
+  padding: 10px 20px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
