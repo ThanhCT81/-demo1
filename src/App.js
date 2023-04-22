@@ -63,6 +63,7 @@ function App() {
       <h2>HELLO WORLD</h2>
       <h2>update lần 2</h2>
       <h2>update lần 3</h2>
+      <h2>update lần 4</h2>
       <h1>{x}</h1>
       <h1>{text}</h1>
       <h1>
